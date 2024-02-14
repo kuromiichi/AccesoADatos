@@ -1,0 +1,3 @@
+[submodule "mongo-python-api"]
+	path = mongo-python-api
+	url = git@github.com:kuromiichi/mongo-python-api.git
