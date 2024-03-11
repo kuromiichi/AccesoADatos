@@ -1,3 +1,6 @@
 [submodule "mongo-python-api"]
 	path = mongo-python-api
 	url = git@github.com:kuromiichi/mongo-python-api.git
+[submodule "ad-databases-practice"]
+	path = ad-databases-practice
+	url = git@github.com:kuromiichi/ad-databases-practice.git
